@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 53a8c4ab7ebced34f80a40a41e840798
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Textures/Particles/Particle_Spark.mat
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9eb2027732016084fbeea9648d98bc83
+timeCreated: 1457508860
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/KV-I/Materials/KV-I_ScrollTrack.mat
+  uploadId: 593847

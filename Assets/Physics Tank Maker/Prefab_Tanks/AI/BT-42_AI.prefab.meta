@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6db58e0190718cd458792f1134aa7ed6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/AI/BT-42_AI.prefab
+  uploadId: 593847

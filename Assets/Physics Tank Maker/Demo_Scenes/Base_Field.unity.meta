@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c62e51962684eb842bcad34d9297efcd
+timeCreated: 1437798905
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/Base_Field.unity
+  uploadId: 593847

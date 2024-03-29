@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0fb9644bdbeaeb34d82315336f021fca
+timeCreated: 1498709992
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/Panzer-IV_ST.prefab
+  uploadId: 593847

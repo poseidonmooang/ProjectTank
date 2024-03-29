@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ee3e6596ab9bb9408eedcf84b89b06a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Canvas_Fade.prefab
+  uploadId: 593847

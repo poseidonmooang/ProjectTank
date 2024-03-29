@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b0850d8ef0d00945aa26dcf0d59067e
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/Impact_02.prefab
+  uploadId: 593847

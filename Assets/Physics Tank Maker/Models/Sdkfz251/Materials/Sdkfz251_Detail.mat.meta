@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4031c80a0fe0374ead37513ebd62dc2
+timeCreated: 1459136322
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Sdkfz251/Materials/Sdkfz251_Detail.mat
+  uploadId: 593847

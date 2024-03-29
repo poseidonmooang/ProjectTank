@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f618f0f7d87415f40800a9fdb95bf556
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/PhysicMaterials/Dynamic_1.physicMaterial
+  uploadId: 593847

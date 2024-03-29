@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de82db0b371121e44b6dc2817b46decd
+timeCreated: 1498720755
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/00_Scene_Selector.unity
+  uploadId: 593847

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5b14f19ac61250446ac86697391f9bc7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Editor/UI_HP_Bars_Self_CSEditor.cs
+  uploadId: 593847

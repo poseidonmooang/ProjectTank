@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06e872d6e74e60e47a59021b222d6004
+timeCreated: 1498711284
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Bullets/AP_Bullet (Small).prefab
+  uploadId: 593847

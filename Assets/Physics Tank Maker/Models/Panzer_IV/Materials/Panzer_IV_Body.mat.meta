@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cb8738c78866644c87da0a4a71908e1
+timeCreated: 1443458136
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Panzer_IV/Materials/Panzer_IV_Body.mat
+  uploadId: 593847

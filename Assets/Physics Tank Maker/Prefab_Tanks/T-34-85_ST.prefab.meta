@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd0ec7148b191e444afab1782bceaf2b
+timeCreated: 1498711153
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/T-34-85_ST.prefab
+  uploadId: 593847

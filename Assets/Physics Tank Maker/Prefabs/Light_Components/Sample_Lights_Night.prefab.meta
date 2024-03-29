@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f08af97d40b8ded47a997ad593945552
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Light_Components/Sample_Lights_Night.prefab
+  uploadId: 593847

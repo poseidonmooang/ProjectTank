@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5219493a30b1a014a92ac8b0f9265868
+timeCreated: 1498886233
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/04_00_Escort_Mission_A_Menu.unity
+  uploadId: 593847

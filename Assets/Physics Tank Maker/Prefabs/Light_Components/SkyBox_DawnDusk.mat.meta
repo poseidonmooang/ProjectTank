@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb17747142398b14ba6950ba9cc975ce
+timeCreated: 1425633283
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Light_Components/SkyBox_DawnDusk.mat
+  uploadId: 593847

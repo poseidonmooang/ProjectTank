@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: baaf466d876786748a7160063862dfd7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Editor/UI_Text_Control_CSEditor.cs
+  uploadId: 593847

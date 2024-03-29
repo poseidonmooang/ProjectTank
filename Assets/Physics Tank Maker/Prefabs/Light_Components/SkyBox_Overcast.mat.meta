@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba0ffe7a67a18934db918d3511638e30
+timeCreated: 1478366301
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Light_Components/SkyBox_Overcast.mat
+  uploadId: 593847

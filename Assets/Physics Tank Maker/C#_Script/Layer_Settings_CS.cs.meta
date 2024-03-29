@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5ea39e501fd4da54eb8e4530830f5237
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Layer_Settings_CS.cs
+  uploadId: 593847

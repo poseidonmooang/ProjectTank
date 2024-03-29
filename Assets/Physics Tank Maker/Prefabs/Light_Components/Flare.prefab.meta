@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24cb65f1ba23691439c5e78730df4ec6
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Light_Components/Flare.prefab
+  uploadId: 593847

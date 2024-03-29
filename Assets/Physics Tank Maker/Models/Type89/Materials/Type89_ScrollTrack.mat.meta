@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37d3d8b87cb4a4f44b3baf612b0b1f38
+timeCreated: 1476516729
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Type89/Materials/Type89_ScrollTrack.mat
+  uploadId: 593847

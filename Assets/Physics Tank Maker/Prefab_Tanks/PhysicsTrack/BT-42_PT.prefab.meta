@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb644774df9d5684ba5fab2be9d56788
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/PhysicsTrack/BT-42_PT.prefab
+  uploadId: 593847

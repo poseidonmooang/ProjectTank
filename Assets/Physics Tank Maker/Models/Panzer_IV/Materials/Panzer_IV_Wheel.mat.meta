@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80a01f31632c9f14ca0ddd7d333cbe7e
+timeCreated: 1445826037
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Panzer_IV/Materials/Panzer_IV_Wheel.mat
+  uploadId: 593847

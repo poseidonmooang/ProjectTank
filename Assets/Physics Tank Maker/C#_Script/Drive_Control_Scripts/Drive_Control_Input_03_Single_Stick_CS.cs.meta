@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 467e078478301334daabb5f29192f49d
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Drive_Control_Scripts/Drive_Control_Input_03_Single_Stick_CS.cs
+  uploadId: 593847

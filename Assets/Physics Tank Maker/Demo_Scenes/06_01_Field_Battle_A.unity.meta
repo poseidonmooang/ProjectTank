@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c4f781297a52ec4fa2b2037f31a921b
+timeCreated: 1498890340
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/06_01_Field_Battle_A.unity
+  uploadId: 593847

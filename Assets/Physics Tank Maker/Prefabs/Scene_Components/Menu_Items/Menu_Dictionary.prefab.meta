@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d75ef0bc79b28d49bf2f1e401983474
+timeCreated: 1480903976
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/Menu_Dictionary.prefab
+  uploadId: 593847

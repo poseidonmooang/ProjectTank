@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8d6a2b4dc58af8f419b4fc6ced002ec3
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Terrain[Exam_Field].prefab
+  uploadId: 593847

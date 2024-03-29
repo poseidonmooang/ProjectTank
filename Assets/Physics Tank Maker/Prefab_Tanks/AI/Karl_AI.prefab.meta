@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc7e5d788bca4e14492a75a5626069ee
+timeCreated: 1498712886
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/AI/Karl_AI.prefab
+  uploadId: 593847

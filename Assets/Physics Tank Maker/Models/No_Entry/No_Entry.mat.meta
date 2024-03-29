@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61de9dd8142b390429c4e2512166603e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/No_Entry/No_Entry.mat
+  uploadId: 593847

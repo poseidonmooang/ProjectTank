@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f7c16603aa063f4694d76c6ea9c48a0
+timeCreated: 1478488129
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/01_Operation_Tutorial.unity
+  uploadId: 593847

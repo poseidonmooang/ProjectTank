@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cde12f761f97c7d458279cd02036f727
+timeCreated: 1480903972
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/Menu_Camera.prefab
+  uploadId: 593847

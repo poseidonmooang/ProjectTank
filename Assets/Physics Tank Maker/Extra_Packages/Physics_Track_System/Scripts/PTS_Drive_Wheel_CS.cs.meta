@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 18e1c075f154b594fbd5e1bc63419e67
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Scripts/PTS_Drive_Wheel_CS.cs
+  uploadId: 593847

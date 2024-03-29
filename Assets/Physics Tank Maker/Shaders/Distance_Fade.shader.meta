@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 692366ab555bcab46addbdae477adc34
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Shaders/Distance_Fade.shader
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd236ea11af869e4fa6d8d7c140ca29c
+timeCreated: 1457587861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Firefly/Materials/Firefly_Turret.mat
+  uploadId: 593847

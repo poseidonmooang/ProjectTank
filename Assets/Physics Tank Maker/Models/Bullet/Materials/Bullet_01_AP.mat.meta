@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 15e71fd79f4e5f841be4e2f62aca9b62
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Bullet/Materials/Bullet_01_AP.mat
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fca71ae53011af4eba2fac96f784d93
+timeCreated: 1461476959
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Tank_Components/Track_Collider.prefab
+  uploadId: 593847

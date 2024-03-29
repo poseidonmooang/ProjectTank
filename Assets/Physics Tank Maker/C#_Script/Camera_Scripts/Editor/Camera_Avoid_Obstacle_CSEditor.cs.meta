@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 616f515b8fc10f341862a9250d98a629
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Camera_Scripts/Editor/Camera_Avoid_Obstacle_CSEditor.cs
+  uploadId: 593847

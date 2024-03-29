@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 39a42d20b0c33204aa974d5ba8fe9ab3
+timeCreated: 1477539484
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/ReticleWheel_Control_CS.cs
+  uploadId: 593847

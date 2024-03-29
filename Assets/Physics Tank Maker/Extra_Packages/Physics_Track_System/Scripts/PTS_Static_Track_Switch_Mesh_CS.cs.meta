@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2de82127108ce6e479f5e7f36c74191d
+timeCreated: 1480229882
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Scripts/PTS_Static_Track_Switch_Mesh_CS.cs
+  uploadId: 593847

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e1adc1ee5230d6b4cb29b3e5b06d6fe0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Scripts/PTS_Create_TrackBelt_CS.cs
+  uploadId: 593847

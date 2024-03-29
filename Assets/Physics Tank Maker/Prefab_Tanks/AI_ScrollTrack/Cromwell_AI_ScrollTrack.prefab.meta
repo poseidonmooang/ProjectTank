@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90fb03b040f2c994b8ccd3f37733fc41
+timeCreated: 1498714384
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/AI_ScrollTrack/Cromwell_AI_ScrollTrack.prefab
+  uploadId: 593847

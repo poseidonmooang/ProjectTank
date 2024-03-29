@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 993a72d30c92a9d40b06bce15dd31f98
+timeCreated: 1458458965
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Karl/Materials/Karl_Cannon.mat
+  uploadId: 593847

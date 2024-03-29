@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 40d8b589226a33445b21356f434f8da3
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/WayPoint_Pack_Exam_Field.prefab
+  uploadId: 593847

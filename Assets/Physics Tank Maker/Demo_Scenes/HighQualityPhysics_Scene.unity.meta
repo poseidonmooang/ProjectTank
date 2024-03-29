@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88837a2aeb1d68742bdaef1567cdd216
+timeCreated: 1477877757
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/HighQualityPhysics_Scene.unity
+  uploadId: 593847

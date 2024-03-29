@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a256a3173149054489c29119a24e8d3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Scripts/PTS_Static_Track_CS.cs
+  uploadId: 593847

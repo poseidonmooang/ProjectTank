@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b22be83fc2a75b943baf6db9b204d8f9
+timeCreated: 1457359728
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/KV-I/Materials/KV-I_Detail.mat
+  uploadId: 593847

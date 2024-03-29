@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b07b10b4fb1ab7e47be74c4ed2e8a057
+timeCreated: 1480982149
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/EventSystem.prefab
+  uploadId: 593847

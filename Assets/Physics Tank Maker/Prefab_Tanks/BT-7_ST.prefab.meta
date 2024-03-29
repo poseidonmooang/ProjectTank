@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a83ef002da56d4448e52e1a745dd9a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/BT-7_ST.prefab
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2c4a63b1c0f4fa42a5f3bf6b3c5b7fd
+timeCreated: 1446875927
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Terrains/Terrain[Ver.2.0].asset
+  uploadId: 593847

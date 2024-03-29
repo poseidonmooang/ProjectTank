@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6296a7aa05d9ed14492f5de807a2ab2c
+timeCreated: 1446262416
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Tiger-I/Materials/Tiger-I_Detail.mat
+  uploadId: 593847

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e69a7c69588735c4a9545e40d31ce0d8
+timeCreated: 1508564039
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Prefabs/PTS_Firefly_PT.prefab
+  uploadId: 593847

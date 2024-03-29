@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac4ee984c50028b4ab2ba340336d5c11
+timeCreated: 1498717549
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/HQ/T-34-76_PT_HQ(for Fixed_TimeStep=0.01).prefab
+  uploadId: 593847

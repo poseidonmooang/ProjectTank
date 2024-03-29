@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc6311cce2d906440b4b56a81c1961ff
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/Minimum_Scene.unity
+  uploadId: 593847

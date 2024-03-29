@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 968dfd53b8f120b4286fb23cf01461ac
+timeCreated: 1480910444
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/Canvas_Button.prefab
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5ea64ee915b14345b55bb5f2ccc5233
+timeCreated: 1498719530
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/02_00_Angry_Karl_A_Menu.unity
+  uploadId: 593847

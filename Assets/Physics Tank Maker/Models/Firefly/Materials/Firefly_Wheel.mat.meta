@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b2f622f89c86fe41aa6b88436e6c73c
+timeCreated: 1457587861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Firefly/Materials/Firefly_Wheel.mat
+  uploadId: 593847

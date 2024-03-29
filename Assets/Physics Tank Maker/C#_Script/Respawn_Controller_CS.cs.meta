@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dde63c5a26d9eb048987d072ea497001
+timeCreated: 1529976534
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Respawn_Controller_CS.cs
+  uploadId: 593847

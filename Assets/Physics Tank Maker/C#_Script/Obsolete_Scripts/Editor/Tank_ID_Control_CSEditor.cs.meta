@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97fbc157235ed0f4e991ad095b45a965
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Obsolete_Scripts/Editor/Tank_ID_Control_CSEditor.cs
+  uploadId: 593847

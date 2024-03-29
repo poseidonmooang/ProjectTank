@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 88b2dfe235d78a84a8b40469e65e6be5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Editor/PTS_Create_SprocketWheel_CSEditor.cs
+  uploadId: 593847

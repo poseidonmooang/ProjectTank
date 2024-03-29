@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53fd4beb835cee140b114d74a1efe117
+timeCreated: 1476923957
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/BT-7/Materials/BT-7_ScrollTrack.mat
+  uploadId: 593847

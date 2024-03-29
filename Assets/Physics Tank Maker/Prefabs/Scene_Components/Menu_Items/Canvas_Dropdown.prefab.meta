@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d46254716cf63941a8e6b072c5caecf
+timeCreated: 1480902032
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/Canvas_Dropdown.prefab
+  uploadId: 593847

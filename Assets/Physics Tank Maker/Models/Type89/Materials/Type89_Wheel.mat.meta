@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa9cae9b8781e1743acbfcd35c6aa3e8
+timeCreated: 1476249650
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Type89/Materials/Type89_Wheel.mat
+  uploadId: 593847

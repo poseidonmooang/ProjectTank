@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f5d61b0d1b22fa44cb75a67fa42471b2
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Drive_Control_Scripts/Drive_Control_Input_02_Keyboard_Pressing_CS.cs
+  uploadId: 593847

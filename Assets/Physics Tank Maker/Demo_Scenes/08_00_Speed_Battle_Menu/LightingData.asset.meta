@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1200efb15a6bd7a49829b5c5beb3fd1f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/08_00_Speed_Battle_Menu/LightingData.asset
+  uploadId: 593847

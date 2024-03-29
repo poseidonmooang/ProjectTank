@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6a9498792e0950841a6288c99092181f
+timeCreated: 1534490215
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Event_Controller_Scripts/Event_Scripts/Event_Event_01_Spawn_Tank_CS.cs
+  uploadId: 593847

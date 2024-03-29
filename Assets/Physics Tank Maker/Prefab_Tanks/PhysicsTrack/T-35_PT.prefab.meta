@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 35d09388e6a3f2a40809dfe665a31569
+timeCreated: 1498717154
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/PhysicsTrack/T-35_PT.prefab
+  uploadId: 593847

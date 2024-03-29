@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 51356c04fbf7569429b6b11b12e1accc
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/MuzzleFire_Middle.prefab
+  uploadId: 593847

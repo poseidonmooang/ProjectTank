@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa2ad3eb5fda0b64fa1a277024fa8c6c
+timeCreated: 1480903042
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Base/Materials/Symbol_Blue.mat
+  uploadId: 593847

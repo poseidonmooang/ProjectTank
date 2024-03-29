@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b87061856bd0b1458cbaf47ebd1f424
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Tank_Components/AI_Core.prefab
+  uploadId: 593847

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 68db3d25b9d52d048a38152e4a6d6c48
+timeCreated: 1530719936
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Damage_Control_Scripts/Damage_Control_00_Base.cs
+  uploadId: 593847

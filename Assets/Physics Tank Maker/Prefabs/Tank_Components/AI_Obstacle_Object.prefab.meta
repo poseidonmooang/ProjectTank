@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3227f9f66120a24190d97d97894d9a1
+timeCreated: 1498871021
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Tank_Components/AI_Obstacle_Object.prefab
+  uploadId: 593847

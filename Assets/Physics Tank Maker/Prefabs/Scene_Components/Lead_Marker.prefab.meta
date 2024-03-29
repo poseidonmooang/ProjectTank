@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04fdaa185372cba4f9c132cefb67cce1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Lead_Marker.prefab
+  uploadId: 593847

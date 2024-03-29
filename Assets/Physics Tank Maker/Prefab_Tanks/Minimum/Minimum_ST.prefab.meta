@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75be859405f8430439a5eeaa393c7e40
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/Minimum/Minimum_ST.prefab
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 436b3948b5b8fc8478ff7a14366a3edf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Terrains/_TerrainAutoUpgrade/layer_Image_Grass(15.000,15.000)(0.000,0.000)(0.000,0.000,0.000),0.000,1.000.terrainlayer
+  uploadId: 593847

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fa2bcedb7c6b21f4fa1e4c026ae0b5ce
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/RC_Camera_Scripts/RC_Camera_Input_00_Base_CS.cs
+  uploadId: 593847

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ad8e789b01f29f04c8589f21a1931874
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Turret_Horizontal_CS.cs
+  uploadId: 593847

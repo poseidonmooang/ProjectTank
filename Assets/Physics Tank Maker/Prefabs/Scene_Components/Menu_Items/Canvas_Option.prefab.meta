@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fadbcda482c44d04680c2cba1aa0045a
+timeCreated: 1499259773
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/Canvas_Option.prefab
+  uploadId: 593847

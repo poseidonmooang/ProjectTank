@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38a7336ae9c881e4d8c5fe22067d2584
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/BT-7/Materials/BT-7.mat
+  uploadId: 593847

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b922d0245dbb35f45aea8da5b71aaeea
+timeCreated: 1456547843
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Track_Scroll_CS.cs
+  uploadId: 593847

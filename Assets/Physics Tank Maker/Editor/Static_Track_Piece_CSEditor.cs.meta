@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dc22c74beb7c27a43ad94203bf56634a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Editor/Static_Track_Piece_CSEditor.cs
+  uploadId: 593847

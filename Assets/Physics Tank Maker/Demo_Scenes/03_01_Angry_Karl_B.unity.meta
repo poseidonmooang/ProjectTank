@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7aded530846b5b840b198cc288441518
+timeCreated: 1498721201
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/03_01_Angry_Karl_B.unity
+  uploadId: 593847

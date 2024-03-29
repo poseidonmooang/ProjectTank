@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39464696c9033604681335c4f568933c
+timeCreated: 1446876733
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/Plain_Field.unity
+  uploadId: 593847

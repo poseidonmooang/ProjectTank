@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3d528a6eb659b2548ab419b6d5809e3b
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Obsolete_Scripts/RC_Camera_Input_04_For_Triggers_Drive_CS.cs
+  uploadId: 593847

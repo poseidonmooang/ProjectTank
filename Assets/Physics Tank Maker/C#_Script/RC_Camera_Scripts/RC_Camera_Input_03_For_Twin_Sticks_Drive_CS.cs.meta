@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ce5eaf0d46d869c41a3f8e34308fd753
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/RC_Camera_Scripts/RC_Camera_Input_03_For_Twin_Sticks_Drive_CS.cs
+  uploadId: 593847

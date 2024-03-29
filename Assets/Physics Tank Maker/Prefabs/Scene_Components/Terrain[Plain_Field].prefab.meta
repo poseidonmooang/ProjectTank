@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 881b1198c561c14479e1c8354f745262
+timeCreated: 1447218313
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Terrain[Plain_Field].prefab
+  uploadId: 593847

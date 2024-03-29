@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3a226665ae526aa498185499c51eaf7b
+timeCreated: 1499267929
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Editor/Emission_Control_CSEditor.cs
+  uploadId: 593847

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0fe67b2dcb6bdd419d0a695f391eab7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/05_01_Escort_Mission_B/NavMesh.asset
+  uploadId: 593847

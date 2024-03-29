@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 478e6909195de124a99e67c450a6b952
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/Explosion_Large.prefab
+  uploadId: 593847

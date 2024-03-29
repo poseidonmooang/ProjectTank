@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8fef5266cd7811c418e22917e66ae64e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Drive_Control_Scripts/Editor/Drive_Control_CSEditor.cs
+  uploadId: 593847

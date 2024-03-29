@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f9ed7ab937b8524ea3676bd4694c39e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/01_Operation_Tutorial/LightingData.asset
+  uploadId: 593847

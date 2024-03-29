@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7fdd24647c3016946841cfd2c48c2f3e
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/Explosion_Middle.prefab
+  uploadId: 593847

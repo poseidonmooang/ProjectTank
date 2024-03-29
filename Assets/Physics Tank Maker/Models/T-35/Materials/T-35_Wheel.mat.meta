@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81ba16f072f89504b8e944624466cc97
+timeCreated: 1475544885
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/T-35/Materials/T-35_Wheel.mat
+  uploadId: 593847

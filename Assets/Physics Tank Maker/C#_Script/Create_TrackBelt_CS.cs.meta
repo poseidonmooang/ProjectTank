@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af269059a4857d94d85fee3b71e1c8b4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Create_TrackBelt_CS.cs
+  uploadId: 593847

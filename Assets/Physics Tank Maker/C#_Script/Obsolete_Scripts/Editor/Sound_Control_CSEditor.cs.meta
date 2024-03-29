@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e1ba1c573e516a747bd5d971424f31e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Obsolete_Scripts/Editor/Sound_Control_CSEditor.cs
+  uploadId: 593847

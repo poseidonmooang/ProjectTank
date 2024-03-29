@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ce1778e6fa4a8742a0a3928aa4d5e6f
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Light_Components/Sample_Lights_DawnDusk.prefab
+  uploadId: 593847

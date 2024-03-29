@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9addc43c54c09064b8e197fe427bf852
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/RC_Camera_Scripts/RC_Camera_Input_01_Mouse_CS.cs
+  uploadId: 593847

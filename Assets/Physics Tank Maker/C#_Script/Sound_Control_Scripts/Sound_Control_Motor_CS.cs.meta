@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 99f36522ede68b44193fe0ae75b1e850
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Sound_Control_Scripts/Sound_Control_Motor_CS.cs
+  uploadId: 593847

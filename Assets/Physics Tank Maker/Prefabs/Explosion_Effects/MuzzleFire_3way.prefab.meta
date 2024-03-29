@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9a167379ddef36344b5f32e4c08a8b45
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/MuzzleFire_3way.prefab
+  uploadId: 593847

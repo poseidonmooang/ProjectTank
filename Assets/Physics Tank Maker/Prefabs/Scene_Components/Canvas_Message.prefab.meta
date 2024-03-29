@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 066aaaf4cfe676a46a38de9ce6b9278b
+timeCreated: 1446778045
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Canvas_Message.prefab
+  uploadId: 593847

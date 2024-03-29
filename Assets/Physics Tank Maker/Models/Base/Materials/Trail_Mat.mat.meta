@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01d753f2cd18fa64c804e5097d3be6b6
+timeCreated: 1435933344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Base/Materials/Trail_Mat.mat
+  uploadId: 593847

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3f57035d9261704e9c5203f669b2472
+timeCreated: 1498712468
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/AI/T-34-76_AI.prefab
+  uploadId: 593847

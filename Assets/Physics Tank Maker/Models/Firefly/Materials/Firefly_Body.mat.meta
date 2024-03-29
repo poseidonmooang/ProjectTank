@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90e7600f31686f04db50d11536b88e51
+timeCreated: 1457587861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Firefly/Materials/Firefly_Body.mat
+  uploadId: 593847

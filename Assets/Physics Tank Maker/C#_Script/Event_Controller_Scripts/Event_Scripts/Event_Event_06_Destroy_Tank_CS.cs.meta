@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ac9c08d9cbd96464584663967f0b407d
+timeCreated: 1534490215
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Event_Controller_Scripts/Event_Scripts/Event_Event_06_Destroy_Tank_CS.cs
+  uploadId: 593847

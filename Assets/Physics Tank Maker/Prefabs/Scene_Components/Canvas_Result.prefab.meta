@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca75fdd06f3e7884d8ad562cd47483ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Canvas_Result.prefab
+  uploadId: 593847

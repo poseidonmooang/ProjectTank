@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aae3976a32b9f8d409b66bc943c4daa4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Editor/Create_RoadWheel_Type89_CSEditor.cs
+  uploadId: 593847

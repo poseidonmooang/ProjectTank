@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 100d169e279148347b597cf5902d8f10
+timeCreated: 1473209653
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Base/Materials/For_Marker.mat
+  uploadId: 593847

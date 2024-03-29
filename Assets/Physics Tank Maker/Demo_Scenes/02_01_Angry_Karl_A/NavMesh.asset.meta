@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 481e700787b8c5c4b9f987602d209fed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/02_01_Angry_Karl_A/NavMesh.asset
+  uploadId: 593847

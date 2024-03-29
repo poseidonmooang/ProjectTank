@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cfb843b35b8b40e4fa7a9c797d0d317b
+timeCreated: 1532704170
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Fade_Control_CS.cs
+  uploadId: 593847

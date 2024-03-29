@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea6baa13ff7b17c4b9ef2e5ab51a37fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/AI/BT-7_AI.prefab
+  uploadId: 593847

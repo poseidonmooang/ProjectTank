@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 78b1ab9c072bdb4429479249f9a99190
+timeCreated: 1531450292
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/UI_Aim_Marker_Control_CS.cs
+  uploadId: 593847

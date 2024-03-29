@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7c11c97ede2bc754b93ebb440c85f011
+timeCreated: 1480898155
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Menu_Camera_CS.cs
+  uploadId: 593847

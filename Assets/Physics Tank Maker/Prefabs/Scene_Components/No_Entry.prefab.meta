@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3deff8f7b14fc9439b9a2a7c2c051bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/No_Entry.prefab
+  uploadId: 593847

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fb3676eff8c6e2e41b107dad6fbd66d0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Drive_Wheel_CS.cs
+  uploadId: 593847

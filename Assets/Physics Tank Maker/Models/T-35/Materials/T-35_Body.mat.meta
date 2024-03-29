@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 93391e3462c473f46b453652399636b8
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/T-35/Materials/T-35_Body.mat
+  uploadId: 593847

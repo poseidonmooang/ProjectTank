@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b74ecebd4388c5468fb43ff79f16b3a
+timeCreated: 1498714154
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/AI/Type89_AI.prefab
+  uploadId: 593847

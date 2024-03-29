@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8ac2280096fcf574cb2d82620d0cfd57
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Aiming_Control_Scripts/Editor/Aiming_Control_CSEditor.cs
+  uploadId: 593847

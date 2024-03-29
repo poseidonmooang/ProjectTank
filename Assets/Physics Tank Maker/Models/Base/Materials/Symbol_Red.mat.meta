@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d75371b712e3d643b3e8c7bd4b352ff
+timeCreated: 1480903403
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Base/Materials/Symbol_Red.mat
+  uploadId: 593847

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: adb0bc6cad186ce459495c2299011eb7
+timeCreated: 1532672307
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Editor/Respawn_Controller_CSEditor.cs
+  uploadId: 593847

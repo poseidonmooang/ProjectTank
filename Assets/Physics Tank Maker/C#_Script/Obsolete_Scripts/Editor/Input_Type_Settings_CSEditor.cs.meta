@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 88b2f3521439870488012e764f5e8a6a
+timeCreated: 1532672307
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Obsolete_Scripts/Editor/Input_Type_Settings_CSEditor.cs
+  uploadId: 593847

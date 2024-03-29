@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d1f20e84a32e07a41a1263ac648e99e5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Damage_Control_Scripts/Editor/Damage_Control_09_Armor_Collider_CSEditor.cs
+  uploadId: 593847

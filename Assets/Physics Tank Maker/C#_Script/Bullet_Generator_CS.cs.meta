@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2399ce53242aa614eb32b66b9ebcfb53
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Bullet_Generator_CS.cs
+  uploadId: 593847

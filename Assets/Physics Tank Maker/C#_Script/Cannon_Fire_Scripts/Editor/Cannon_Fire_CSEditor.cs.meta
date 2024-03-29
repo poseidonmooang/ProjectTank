@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e1b9ddd972a395a45a2e0b45e83b4df6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Cannon_Fire_Scripts/Editor/Cannon_Fire_CSEditor.cs
+  uploadId: 593847

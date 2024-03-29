@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57695c602a1f239409e8c1910077e8e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/Plain_Field/LightingData.asset
+  uploadId: 593847

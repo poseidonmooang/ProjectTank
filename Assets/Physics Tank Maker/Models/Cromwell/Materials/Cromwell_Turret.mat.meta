@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c9a4c3478217e648bf2538447b38dd6
+timeCreated: 1463810088
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Cromwell/Materials/Cromwell_Turret.mat
+  uploadId: 593847

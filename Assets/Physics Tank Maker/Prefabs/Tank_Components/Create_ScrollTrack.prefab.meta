@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cb5ae8f99e55d84a84003a0c4127abb
+timeCreated: 1482213661
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Tank_Components/Create_ScrollTrack.prefab
+  uploadId: 593847

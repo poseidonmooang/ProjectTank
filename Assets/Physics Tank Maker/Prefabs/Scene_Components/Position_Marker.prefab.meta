@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4525308ffcef7349a11370be40c1641
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Position_Marker.prefab
+  uploadId: 593847

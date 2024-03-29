@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d278e18dcd02e9847a296f258807f6d3
+timeCreated: 1480903403
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/Base/Materials/Symbol_Green.mat
+  uploadId: 593847

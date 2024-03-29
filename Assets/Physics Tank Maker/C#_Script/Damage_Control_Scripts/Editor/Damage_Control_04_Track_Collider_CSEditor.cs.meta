@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff9d78fabf651304c800250acb11a1ff
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Damage_Control_Scripts/Editor/Damage_Control_04_Track_Collider_CSEditor.cs
+  uploadId: 593847

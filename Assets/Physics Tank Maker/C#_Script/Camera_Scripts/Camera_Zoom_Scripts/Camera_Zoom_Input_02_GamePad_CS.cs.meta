@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7372eb01a9c71ab48bb4673c9b5ad268
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Camera_Scripts/Camera_Zoom_Scripts/Camera_Zoom_Input_02_GamePad_CS.cs
+  uploadId: 593847

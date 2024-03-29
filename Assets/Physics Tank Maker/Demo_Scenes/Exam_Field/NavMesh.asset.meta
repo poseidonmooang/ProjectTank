@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba72a39bacc28454c8b10bfb289b67d7
+timeCreated: 1473228568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/Exam_Field/NavMesh.asset
+  uploadId: 593847

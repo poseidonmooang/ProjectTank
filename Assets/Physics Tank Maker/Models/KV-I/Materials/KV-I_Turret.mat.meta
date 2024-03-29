@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53dbeccb146f1c44b9ed673f916a0e76
+timeCreated: 1457359728
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Models/KV-I/Materials/KV-I_Turret.mat
+  uploadId: 593847

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0eceb8f49214032419cc39689a43eb85
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Gun_Camera_Scripts/Gun_Camera_CS.cs
+  uploadId: 593847

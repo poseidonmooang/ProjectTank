@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c493eef0365bc3f44998220936dbefe4
+timeCreated: 1467213634
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Scripts/PTS_Track_Joint_CS.cs
+  uploadId: 593847

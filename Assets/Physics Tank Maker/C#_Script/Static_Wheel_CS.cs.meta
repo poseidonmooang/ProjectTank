@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6009e72a529dbcf498d4e8cb71d14787
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Static_Wheel_CS.cs
+  uploadId: 593847

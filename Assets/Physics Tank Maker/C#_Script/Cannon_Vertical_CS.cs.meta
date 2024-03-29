@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fdbedc254ea850248a7d4c7001f9404c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Cannon_Vertical_CS.cs
+  uploadId: 593847

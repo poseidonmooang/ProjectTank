@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ad1631f2cecb39948a29c876efb6bd3b
+timeCreated: 1534315519
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Menu_Items/Canvas_Briefing.prefab
+  uploadId: 593847

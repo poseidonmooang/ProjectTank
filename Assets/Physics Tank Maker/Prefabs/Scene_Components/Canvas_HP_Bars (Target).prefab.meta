@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a025a74fd8b47854688c77fa9728a595
+timeCreated: 1533884639
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Canvas_HP_Bars (Target).prefab
+  uploadId: 593847

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 46df6ecd7218aa74182870c73a63d60b
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Tank_Components/Armor_Collider.prefab
+  uploadId: 593847

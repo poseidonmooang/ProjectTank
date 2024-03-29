@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ba9b2f39b3d4494caf37a2f92a71e09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Scene_Components/Canvas_Speed_Indicator.prefab
+  uploadId: 593847

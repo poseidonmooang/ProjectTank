@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2cad716b060ca0c41989ce09cba4d956
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/MuzzleFire_Small.prefab
+  uploadId: 593847

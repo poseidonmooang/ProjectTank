@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2c30d580c6b3b348886b57f9cd6fb7d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefab_Tanks/Minimum/Minimum_ScrollTrack.prefab
+  uploadId: 593847

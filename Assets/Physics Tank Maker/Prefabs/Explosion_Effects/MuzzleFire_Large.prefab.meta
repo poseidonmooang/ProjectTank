@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4added456bd62c64186610df5ea5a191
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/MuzzleFire_Large.prefab
+  uploadId: 593847

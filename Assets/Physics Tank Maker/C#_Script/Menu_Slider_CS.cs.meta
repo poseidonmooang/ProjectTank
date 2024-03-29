@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 10d095250ff837b43ba4b4e59d7398fc
+timeCreated: 1499354677
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Menu_Slider_CS.cs
+  uploadId: 593847

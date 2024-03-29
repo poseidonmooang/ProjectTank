@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a51a6509c21644941812537f2bbaaff1
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Prefabs/Explosion_Effects/Ricochet_01.prefab
+  uploadId: 593847

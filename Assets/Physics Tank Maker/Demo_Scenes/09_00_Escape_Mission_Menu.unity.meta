@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d662b6642ca1f0847bea00c60e2a3611
+timeCreated: 1534409365
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Demo_Scenes/09_00_Escape_Mission_Menu.unity
+  uploadId: 593847

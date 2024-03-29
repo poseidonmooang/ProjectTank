@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 31b345e953aebe64ca048422c732c82d
+timeCreated: 1534511533
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/C#_Script/Camera_Scripts/Camera_Rotation_Scripts/Camera_Rotation_Input_03_For_Twin_Sticks_Drive_CS.cs
+  uploadId: 593847

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77062a296c93741408796e9886cfd43e
+timeCreated: 1508597110
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50485
+  packageName: Physics Tank Maker
+  packageVersion: 3.2.5
+  assetPath: Assets/Physics Tank Maker/Extra_Packages/Physics_Track_System/Prefabs/Create_SwingBall_A.prefab
+  uploadId: 593847
