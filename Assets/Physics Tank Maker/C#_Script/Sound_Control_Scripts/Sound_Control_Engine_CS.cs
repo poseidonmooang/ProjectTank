@@ -8,6 +8,7 @@ namespace ChobiAssets.PTM
 
     public class Sound_Control_Engine_CS : MonoBehaviour
     {
+        private bool myBool = false;
         /*
 		 * This script is attached to the "Engine_Sound" object in the tank.
 		 * This script controls the engine sound in the tank.
@@ -53,7 +54,7 @@ namespace ChobiAssets.PTM
             thisAudioSource.playOnAwake = false;
             thisAudioSource.loop = true;
             thisAudioSource.volume = 0.0f;
-            thisAudioSource.Play();
+            thisAudioSource.Stop();
 
             // Find the reference rigidbodies.
             Transform bodyTransform = transform.parent;
@@ -93,6 +94,21 @@ namespace ChobiAssets.PTM
         void Update()
         {
             Engine_Sound();
+            // 'G' 키가 눌렸을 때
+            if (Input.GetKeyDown(KeyCode.G))
+                {
+                    // bool 값 토글
+                    myBool = !myBool;
+                    if (myBool == true){
+                        thisAudioSource.Play();
+                    }
+                    else {
+                        thisAudioSource.Stop();
+                    }
+            
+                    // 토글된 값 로그 출력 (선택사항)
+                    Debug.Log("Bool 값이 변경되었습니다. 현재 값: " + myBool);
+                }
         }
 
 

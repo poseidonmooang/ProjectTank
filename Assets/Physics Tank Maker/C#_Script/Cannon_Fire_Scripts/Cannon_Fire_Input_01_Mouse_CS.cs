@@ -18,10 +18,24 @@ namespace ChobiAssets.PTM
         }
 
 
+        bool fireBool = false;
+        void Update()
+        {
+        // 'G' 키가 눌렸을 때
+        if (Input.GetKeyDown(KeyCode.G))
+            {
+                // bool 값 토글
+                fireBool = !fireBool;
+            }
+        }
+
+
         public override void Get_Input()
 		{
+            
+
             // Fire.
-            if (turretScript.Is_Ready && Input.GetKey(General_Settings_CS.Fire_Key))
+            if (turretScript.Is_Ready && Input.GetKey(General_Settings_CS.Fire_Key) && fireBool)
             {
                 cannonFireScript.Fire();
             }

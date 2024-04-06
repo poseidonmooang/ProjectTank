@@ -8,10 +8,11 @@ namespace ChobiAssets.PTM
     {
 
         bool dPadPressed;
+        
 
-
-        public override void Get_Input()
+        public override void Get_Input()  
         {
+            
             // Switch the aiming mode.
             if (Input.GetKeyDown(General_Settings_CS.Aim_Mode_Switch_Pad_Button))
             {
@@ -95,6 +96,7 @@ namespace ChobiAssets.PTM
 
                 // Control "reticleAimingFlag" in "Aiming_Control_CS".
                 aimingScript.reticleAimingFlag = false;
+                base.Get_Input();
             }
 
             

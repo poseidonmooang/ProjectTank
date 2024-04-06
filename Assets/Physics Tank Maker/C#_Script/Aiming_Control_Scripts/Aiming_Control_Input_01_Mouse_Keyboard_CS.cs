@@ -38,8 +38,27 @@ namespace ChobiAssets.PTM
         }
 
 
+        private bool aimBool = false;
+        void Update()
+        {
+        // 'G' 키가 눌렸을 때
+        if (Input.GetKeyDown(KeyCode.G))
+            {
+                // bool 값 토글
+                aimBool = !aimBool;
+            }
+        }
+
+      
         public override void Get_Input()
 		{
+
+            // Check if the G key is pressed to enable mouse input.
+            if (!aimBool)
+            {
+                return; // Ignore mouse input until the G key is pressed.
+            }
+
             // Switch the aiming mode.
             if (Input.GetKeyDown(General_Settings_CS.Aim_Mode_Switch_Key))
             {
@@ -62,6 +81,8 @@ namespace ChobiAssets.PTM
                 // Set the adjust angle.
                 aimingScript.Adjust_Angle.x += Input.GetAxis("Mouse X") * General_Settings_CS.Aiming_Sensibility;
                 aimingScript.Adjust_Angle.y += Input.GetAxis("Mouse Y") * General_Settings_CS.Aiming_Sensibility;
+
+                
 
                 // Check it is locking-on now.
                 if (aimingScript.Target_Transform)
@@ -125,26 +146,26 @@ namespace ChobiAssets.PTM
             }
 
             
-            /*
+            
             // Left lock on.
-            if (Input.GetKeyDown(General_Settings_CS.Aim_Lock_On_Left_Key))
-            {
-                aimingScript.Auto_Lock(0, thisRelationship);
-                return;
-            }
+            //if (Input.GetKeyDown(General_Settings_CS.Aim_Lock_On_Left_Key))
+            //{
+            //    aimingScript.Auto_Lock(0, thisRelationship);
+            //    return;
+            //}
             // Right lock on.
-            if (Input.GetKeyDown(General_Settings_CS.Aim_Lock_On_Right_Key))
-            {
-                aimingScript.Auto_Lock(1, thisRelationship);
-                return;
-            }
+            //if (Input.GetKeyDown(General_Settings_CS.Aim_Lock_On_Right_Key))
+            //{
+            //    aimingScript.Auto_Lock(1, thisRelationship);
+            //    return;
+            //}
             // Front lock on.
-            if (Input.GetKeyDown(General_Settings_CS.Aim_Lock_On_Front_Key))
-            {
-                aimingScript.Auto_Lock(2, thisRelationship);
-                return;
-			}
-            */
+            //if (Input.GetKeyDown(General_Settings_CS.Aim_Lock_On_Front_Key))
+            //{
+            //    aimingScript.Auto_Lock(2, thisRelationship);
+            //    return;
+			//}
+            
             
         }
 
