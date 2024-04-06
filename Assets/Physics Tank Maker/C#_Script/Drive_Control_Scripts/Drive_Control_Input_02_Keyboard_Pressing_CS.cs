@@ -6,17 +6,44 @@ namespace ChobiAssets.PTM
 
     public class Drive_Control_Input_02_Keyboard_Pressing_CS : Drive_Control_Input_01_Keyboard_Stepwise_CS
     {
+        float up = 0.0f;
+        float down = -0.0f;
+
+        private bool myBool = false;
+
+        void Update()
+        {
+        // 'G' 키가 눌렸을 때
+        if (Input.GetKeyDown(KeyCode.G))
+            {
+                // bool 값 토글
+                myBool = !myBool;
+                if (myBool == true){
+                    up = 1.0f;
+                    down = -0.5f;
+                }
+                else {
+                    up = 0.0f;
+                    down = -0.0f;
+                }
+            
+                // 토글된 값 로그 출력 (선택사항)
+                Debug.Log("Bool 값이 변경되었습니다. 현재 값: " + myBool);
+            }
+
+        }
 
         public override void Drive_Input()
         {
+
             // Set "vertical".
             if (Input.GetKey(General_Settings_CS.Drive_Up_Key))
             {
-                vertical = 1.0f;
+                vertical = up; //1.0f
             }
             else if (Input.GetKey(General_Settings_CS.Drive_Down_Key))
             {
-                vertical = -0.5f;
+                vertical = down; //-0.5f
             }
             else
             {
@@ -26,11 +53,11 @@ namespace ChobiAssets.PTM
             // Set "horizontal".
             if (Input.GetKey(General_Settings_CS.Drive_Left_Key))
             {
-                horizontal = -1.0f;
+                horizontal = -up; //-1.0f
             }
             else if (Input.GetKey(General_Settings_CS.Drive_Right_Key))
             {
-                horizontal = 1.0f;
+                horizontal = up; //1.0f
             }
             else
             {
