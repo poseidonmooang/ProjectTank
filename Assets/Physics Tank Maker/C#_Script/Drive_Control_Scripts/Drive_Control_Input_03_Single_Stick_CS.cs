@@ -6,9 +6,16 @@ namespace ChobiAssets.PTM
 
 	public class Drive_Control_Input_03_Single_Stick_CS : Drive_Control_Input_02_Keyboard_Pressing_CS
     {
+        bool driveBool = false;
+        void Update(){
+            if (Input.GetButtonDown("Sidong")){
+                driveBool = !driveBool;
+            }
+        }
 		
 		public override void Drive_Input()
 		{
+            if (driveBool){
             // Set "vertical".
             vertical = Input.GetAxis("Vertical");
             vertical = Mathf.Clamp(vertical, -0.5f, 1.0f);
@@ -18,6 +25,7 @@ namespace ChobiAssets.PTM
 
             // Set the "Stop_Flag", "L_Input_Rate", "R_Input_Rate" and "Turn_Brake_Rate".
             Set_Values();
+            }
 		}
 
 

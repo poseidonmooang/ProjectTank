@@ -119,6 +119,7 @@ namespace ChobiAssets.PTM
                 return;
             }
 
+ 
             // Get the input.
             inputScript.Get_Input();
             if (General_Settings_CS.Camera_Invert_Flag)

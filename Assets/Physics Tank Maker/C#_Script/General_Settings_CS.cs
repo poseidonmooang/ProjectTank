@@ -81,7 +81,7 @@ namespace ChobiAssets.PTM
         // Gun Camera Keyboard + Mouse settings.
         public static KeyCode Gun_Camera_Switch_Key = KeyCode.Mouse1;
         // Gun Camera GamePad settings.
-        public static KeyCode Gun_Camera_Switch_Pad_Button = KeyCode.Joystick1Button4;
+        public static string Gun_Camera_Switch_Pad_Button = "Fire2"; //KeyCode.JoystickButton4;
 
 
         // RC Camera Keyboard + Mouse settings.
@@ -109,8 +109,8 @@ namespace ChobiAssets.PTM
         public static KeyCode Fire_Key = KeyCode.Mouse0;
         public static KeyCode Switch_Bullet_Key = KeyCode.V;
         // Fire GamePad setting.
-        public static KeyCode Fire_Pad_Button = KeyCode.Joystick1Button5;
-        public static KeyCode Switch_Bullet_Pad_Button = KeyCode.Joystick1Button6;
+        public static string Fire_Pad_Button = "Fire1";//KeyCode.Joystick1Button1;
+        public static KeyCode Switch_Bullet_Pad_Button = KeyCode.Joystick1Button2;
 
 
 

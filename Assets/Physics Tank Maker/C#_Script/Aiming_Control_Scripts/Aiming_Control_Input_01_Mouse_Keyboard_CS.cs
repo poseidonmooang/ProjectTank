@@ -38,8 +38,8 @@ namespace ChobiAssets.PTM
         }
 
 
-        private bool aimBool = false;
-        void Update()
+        //private bool aimBool = true;
+        /*void Update()
         {
         // 'G' 키가 눌렸을 때
         if (Input.GetKeyDown(KeyCode.G))
@@ -47,17 +47,17 @@ namespace ChobiAssets.PTM
                 // bool 값 토글
                 aimBool = !aimBool;
             }
-        }
+        }*/
 
       
         public override void Get_Input()
 		{
 
             // Check if the G key is pressed to enable mouse input.
-            if (!aimBool)
-            {
-                return; // Ignore mouse input until the G key is pressed.
-            }
+            //if (!aimBool)
+            //{
+            //    return; // Ignore mouse input until the G key is pressed.
+            //}
 
             // Switch the aiming mode.
             if (Input.GetKeyDown(General_Settings_CS.Aim_Mode_Switch_Key))

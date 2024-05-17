@@ -12,6 +12,7 @@ namespace ChobiAssets.PTM
             if (Input.GetKeyDown(General_Settings_CS.Camera_Switch_Key))
             {
                 managerScript.Switch_Camera_Point();
+                
             }
 		}
 

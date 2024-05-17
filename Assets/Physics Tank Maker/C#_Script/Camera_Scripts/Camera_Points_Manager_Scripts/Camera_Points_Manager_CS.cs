@@ -36,7 +36,7 @@ namespace ChobiAssets.PTM
 		// << User options
 
 
-		int index = -1;
+		int index = 0;
         Transform thisTransform;
         Transform cameraTransform;
         Vector3 cameraTPVLocalPos;

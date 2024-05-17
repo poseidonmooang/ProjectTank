@@ -7,10 +7,17 @@ namespace ChobiAssets.PTM
 	public class Cannon_Fire_Input_02_For_Sticks_Drive_CS : Cannon_Fire_Input_00_Base_CS
 	{
 
+        bool fireBool = false;
+        void Update(){
+            if (Input.GetButtonDown("Sidong")){
+                fireBool = !fireBool;
+            }
+        }
+
 		public override void Get_Input()
 		{
             // Fire.
-            if (Input.GetKey(General_Settings_CS.Fire_Pad_Button))
+            if (Input.GetButton(General_Settings_CS.Fire_Pad_Button) && fireBool)
             {
                 cannonFireScript.Fire();
             }
