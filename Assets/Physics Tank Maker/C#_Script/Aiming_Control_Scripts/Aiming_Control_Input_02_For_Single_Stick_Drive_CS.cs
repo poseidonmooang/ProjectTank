@@ -8,11 +8,25 @@ namespace ChobiAssets.PTM
     {
 
         bool dPadPressed;
-        
+
+        /*void Start(){
+            //aimingScript.Mode = 1;
+            Debug.Log("aimingScript.Mode: "+ aimingScript.Mode);
+        }
+        */
+
+        private bool aimBool = false;
+        void Update(){
+            if (Input.GetButtonDown("Sidong")){
+                aimBool = !aimBool;
+            }
+        }
+
 
         public override void Get_Input()  
         {
-            
+            if (aimBool){
+
             // Switch the aiming mode.
             if (Input.GetKeyDown(General_Settings_CS.Aim_Mode_Switch_Pad_Button))
             {
@@ -97,6 +111,7 @@ namespace ChobiAssets.PTM
                 // Control "reticleAimingFlag" in "Aiming_Control_CS".
                 aimingScript.reticleAimingFlag = false;
                 base.Get_Input();
+            }
             }
 
             

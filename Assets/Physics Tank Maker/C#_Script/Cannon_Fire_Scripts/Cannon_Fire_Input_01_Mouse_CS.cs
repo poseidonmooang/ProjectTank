@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using UnityEngine;
 
 namespace ChobiAssets.PTM
@@ -17,7 +17,7 @@ namespace ChobiAssets.PTM
             turretScript = GetComponentInParent<Turret_Horizontal_CS>();
         }
 
-
+        /*
         bool fireBool = false;
         void Update()
         {
@@ -28,6 +28,7 @@ namespace ChobiAssets.PTM
                 fireBool = !fireBool;
             }
         }
+        */
 
 
         public override void Get_Input()
@@ -35,7 +36,7 @@ namespace ChobiAssets.PTM
             
 
             // Fire.
-            if (turretScript.Is_Ready && Input.GetKey(General_Settings_CS.Fire_Key) && fireBool)
+            if (turretScript.Is_Ready && Input.GetKey(General_Settings_CS.Fire_Key) /*& fireBool */)
             {
                 cannonFireScript.Fire();
             }

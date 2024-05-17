@@ -9,29 +9,6 @@ namespace ChobiAssets.PTM
         float up = 0.0f;
         float down = -0.0f;
 
-        private bool myBool = false;
-
-        void Update()
-        {
-        // 'G' 키가 눌렸을 때
-        if (Input.GetKeyDown(KeyCode.G))
-            {
-                // bool 값 토글
-                myBool = !myBool;
-                if (myBool == true){
-                    up = 1.0f;
-                    down = -0.5f;
-                }
-                else {
-                    up = 0.0f;
-                    down = -0.0f;
-                }
-            
-                // 토글된 값 로그 출력 (선택사항)
-                Debug.Log("Bool 값이 변경되었습니다. 현재 값: " + myBool);
-            }
-
-        }
 
         public override void Drive_Input()
         {

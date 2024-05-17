@@ -6,24 +6,31 @@ namespace ChobiAssets.PTM
 
     public class Gun_Camera_Input_02_For_Single_Stick_Drive_CS : Gun_Camera_Input_00_Base_CS
     {
+        bool GunBool = false;
+        void Update(){
+            if(Input.GetButtonDown("Sidong")){
+                GunBool = !GunBool;
+            }
+        }
 
         public override void Get_Input()
         {
+            if (GunBool){
             // Turn on / off.
             if (General_Settings_CS.Gun_Camera_While_Pressing)
             { // Gun camera is enabled only while pressing the key.
-                if (Input.GetKeyDown(General_Settings_CS.Gun_Camera_Switch_Pad_Button))
+                if (Input.GetButton(General_Settings_CS.Gun_Camera_Switch_Pad_Button))
                 {
                     gunCameraScript.Switch_Mode(2); // On
                 }
-                else if (Input.GetKeyUp(General_Settings_CS.Gun_Camera_Switch_Pad_Button))
+                else //if (Input.GetButtonUp(General_Settings_CS.Gun_Camera_Switch_Pad_Button))
                 {
                     gunCameraScript.Switch_Mode(1); // Off
                 }
             }
             else
             { // Gun camera is turned on / off each time the key is pressed.
-                if (Input.GetKeyDown(General_Settings_CS.Gun_Camera_Switch_Pad_Button))
+                if (Input.GetButtonDown(General_Settings_CS.Gun_Camera_Switch_Pad_Button))
                 {
                     if (gunCameraScript.Gun_Camera.enabled)
                     { // The gun camera is enabled.
@@ -52,6 +59,7 @@ namespace ChobiAssets.PTM
                 gunCameraScript.Zoom_Input = inputValue * 0.05f;
             }
 
+        }
         }
 
     }
