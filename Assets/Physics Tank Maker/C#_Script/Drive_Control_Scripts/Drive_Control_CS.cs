@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using GoogleCloudStreamingSpeechToText;
 
 namespace ChobiAssets.PTM
 {
@@ -7,6 +8,7 @@ namespace ChobiAssets.PTM
     public class Drive_Control_CS : MonoBehaviour
     {
 
+        public StreamingRecognizer streamingRecognizer;
         /*
 		 * This script is attached to the "MainBody" of the tank.
 		 * This script controls the driving of the tank, such as speed, torque, acceleration and so on.
@@ -91,6 +93,10 @@ namespace ChobiAssets.PTM
 
         void Start()
         {
+            if (streamingRecognizer == null)
+            {
+                streamingRecognizer = GameObject.Find("STT").GetComponent<StreamingRecognizer>();
+            }
             Initialize();
         }
 
@@ -104,8 +110,17 @@ namespace ChobiAssets.PTM
             // Get the input type.
             if (inputType != 10)
             { // This tank is not an AI tank.
+                if (General_Settings_CS.Input_Type == 1)
+                {
+                    General_Settings_CS.Input_Type = 0;
+                    streamingRecognizer.sttStart = true;
+                    //Debug.Log(streamingRecognizer.sttStart);
+
+                }
+
                 inputType = General_Settings_CS.Input_Type;
             }
+
 
             // Set the acceleration rates.
             if (Acceleration_Flag)
@@ -142,10 +157,12 @@ namespace ChobiAssets.PTM
             switch (type)
             {
                 case 0: // Mouse + Keyboard (Stepwise)
+                    goto case 2;
                     inputScript = gameObject.AddComponent<Drive_Control_Input_01_Keyboard_Stepwise_CS>();
                     break;
 
                 case 1: // Mouse + Keyboard (Pressing)
+                    goto case 2;
                     inputScript = gameObject.AddComponent<Drive_Control_Input_02_Keyboard_Pressing_CS>();
                     break;
 
@@ -186,6 +203,9 @@ namespace ChobiAssets.PTM
 
             // Set the driving values, such as speed rate, brake drag and torque.
             Set_Driving_Values();
+
+
+            
         }
 
 

@@ -6,8 +6,8 @@ namespace ChobiAssets.PTM
 
     public class Drive_Control_Input_02_Keyboard_Pressing_CS : Drive_Control_Input_01_Keyboard_Stepwise_CS
     {
-        float up = 0.0f;
-        float down = -0.0f;
+        float up = 1.0f;
+        float down = -0.5f;
 
 
         public override void Drive_Input()
