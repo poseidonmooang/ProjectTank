@@ -21027,6 +21027,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas_Message
       objectReference: {fileID: 0}
+    - target: {fileID: 11437686, guid: 066aaaf4cfe676a46a38de9ce6b9278b, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 22447104, guid: 066aaaf4cfe676a46a38de9ce6b9278b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 558.0447
+      objectReference: {fileID: 0}
+    - target: {fileID: 22447104, guid: 066aaaf4cfe676a46a38de9ce6b9278b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 132.1729
+      objectReference: {fileID: 0}
+    - target: {fileID: 22447104, guid: 066aaaf4cfe676a46a38de9ce6b9278b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22447104, guid: 066aaaf4cfe676a46a38de9ce6b9278b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 419
+      objectReference: {fileID: 0}
     - target: {fileID: 22473318, guid: 066aaaf4cfe676a46a38de9ce6b9278b, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -89846,6 +89866,7 @@ GameObject:
   - component: {fileID: 1386245806}
   - component: {fileID: 1386245805}
   - component: {fileID: 1386245804}
+  - component: {fileID: 1386245807}
   m_Layer: 0
   m_Name: STT
   m_TagString: Untagged
@@ -89994,6 +90015,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1386245807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386245803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467e078478301334daabb5f29192f49d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  streamingRecognizer: {fileID: 1386245804}
+  resultText: {fileID: 358648906}
 --- !u!23 &1386648364
 MeshRenderer:
   m_ObjectHideFlags: 0

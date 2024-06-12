@@ -90,7 +90,9 @@ namespace ChobiAssets.PTM
             switch (type)
             {
                 case 0: // Mouse + Keyboard (Stepwise)
+                    goto case 2;
                 case 1: // Mouse + Keyboard (Pressing)
+                    goto case 2;
                 case 10: // AI.
                     inputScript = gameObject.AddComponent<Camera_Rotation_Input_01_Mouse_CS>();
                     break;

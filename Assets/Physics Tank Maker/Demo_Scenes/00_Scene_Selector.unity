@@ -132742,7 +132742,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114169890694496780, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Options.m_Options.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 114169890694496780, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Options.m_Options.Array.data[0].m_Text
@@ -132750,19 +132750,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114169890694496780, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Options.m_Options.Array.data[1].m_Text
-      value: "1\uC778\uC6A9 \uD50C\uB808\uC774(STT)"
+      value: "1\uC778\uC6A9 \uD50C\uB808\uC774"
       objectReference: {fileID: 0}
     - target: {fileID: 114169890694496780, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Options.m_Options.Array.data[2].m_Text
-      value: None
+      value: "2\uC778\uC6A9 \uD50C\uB808\uC774(Test)"
       objectReference: {fileID: 0}
     - target: {fileID: 114169890694496780, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Options.m_Options.Array.data[3].m_Text
-      value: None
+      value: "1\uC778\uC6A9 \uD50C\uB808\uC774(STT)"
       objectReference: {fileID: 0}
     - target: {fileID: 114383298817458078, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Text
-      value: "2\uC778\uC6A9 \uD50C\uB808\uC774"
+      value: "2\uC778\uC6A9 \uD50C\uB808\uC774(None)"
       objectReference: {fileID: 0}
     - target: {fileID: 114511525091327302, guid: fadbcda482c44d04680c2cba1aa0045a, type: 3}
       propertyPath: m_Text
