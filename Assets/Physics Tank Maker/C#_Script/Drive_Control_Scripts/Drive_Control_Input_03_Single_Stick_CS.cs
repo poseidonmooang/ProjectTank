@@ -38,7 +38,7 @@ namespace ChobiAssets.PTM
                 streamingRecognizer.StopListening();
             }
 
-            if (resultText != null && streamingRecognizer != null)
+            if (resultText != null && streamingRecognizer != null && streamingRecognizer.sttStart)
             {
                 resultText.text = "Result: " + streamingRecognizer.resultStt;
             }
