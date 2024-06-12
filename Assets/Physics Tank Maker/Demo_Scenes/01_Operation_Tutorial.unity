@@ -20213,7 +20213,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'test
 
 '
@@ -22405,7 +22405,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Back to the title,
 
     and try the battle scenes.'
@@ -29656,7 +29656,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Camera Rotaion >> Move mouse.
 
     Speed >> W / S / X
@@ -30312,7 +30312,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Camera Rotaion >> Right Stick
 
     Move >> Left Stick'
@@ -30725,7 +30725,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Drag" >>> Camera Rotaion
 
     "WASD" >>> Move'
@@ -33441,7 +33441,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Drag" >>> Camera Rotaion
 
     "WASD" >>> Move'
@@ -36502,7 +36502,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Button" >>> Lock-On
 
     "Mouse Left Button" >>>
@@ -37039,7 +37039,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Drag" >>> Camera Rotaion
 
     "WASD" >>> Move'
@@ -45051,7 +45051,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Drag" >>> Camera Rotaion
 
     "WASD" >>> Move'
@@ -46286,7 +46286,6 @@ RectTransform:
   m_Children:
   - {fileID: 1011228013}
   - {fileID: 2013038459}
-  - {fileID: 2038290865}
   - {fileID: 39332636}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -46632,7 +46631,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'test
 
 '
@@ -52316,7 +52315,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'test
 
 '
@@ -54318,7 +54317,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Button" >>> Lock-On
 
     "Mouse Left Button" >>>
@@ -58320,7 +58319,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: Try again.
   Event_Message_Color: {r: 1, g: 1, b: 1, a: 1}
   Event_Message_Time: 60
@@ -69808,7 +69807,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Reticle >> Left Bumper
 
     Aim >> Move Right Stick so that the
@@ -79248,7 +79247,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Camera Rotaion >> Move mouse.
 
     Move >> W A S D'
@@ -87956,7 +87955,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Reticle >> Right Button
 
     Aim >> Move mouse so that the Lead
@@ -88180,7 +88179,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Aim >> Hover the marker over the target.
 
     Fire >> Right Bumper'
@@ -93484,7 +93483,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Drag" >>> Camera Rotaion
 
     "WASD" >>> Move'
@@ -93598,7 +93597,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Reticle >> Right Button
 
     Aim >> Move mouse so that the Lead
@@ -95270,7 +95269,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Aim >> Hover the marker over the target.
 
     Fire >> Left Button'
@@ -99637,7 +99636,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: Try again.
   Event_Message_Color: {r: 1, g: 1, b: 1, a: 1}
   Event_Message_Time: 60
@@ -111174,7 +111173,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Right Drag" >>> Camera Rotaion
 
     "Mouse Right Button"
@@ -120335,7 +120334,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: 'Aim >> Hover the marker over the target.
 
     Fire >> Left Button'
@@ -128259,124 +128258,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2038186742}
   m_Mesh: {fileID: 4300002, guid: 36e98307853c9004681113ce5c51bbe9, type: 3}
---- !u!1 &2038290864
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2038290865}
-  - component: {fileID: 2038290868}
-  - component: {fileID: 2038290867}
-  - component: {fileID: 2038290866}
-  - component: {fileID: 2038290869}
-  m_Layer: 5
-  m_Name: Text_Message_Lower
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &2038290865
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2038290864}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 739625127}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 128, y: 256}
-  m_SizeDelta: {x: 1280, y: 250}
-  m_Pivot: {x: 0, y: 0}
---- !u!114 &2038290866
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2038290864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fcb87f28d45efa44494973cc17ee962c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Fade_In_Time: 1
-  Fade_Out_Time: 1
---- !u!114 &2038290867
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2038290864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 36
-    m_FontStyle: 1
-    m_BestFit: 0
-    m_MinSize: 2
-    m_MaxSize: 64
-    m_Alignment: 0
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 'Text_Message
-
-    Text_Message
-
-    Text_Message
-
-    Text_Message
-
-    Text_Message'
---- !u!222 &2038290868
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2038290864}
-  m_CullTransparentMesh: 0
---- !u!114 &2038290869
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2038290864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
-  m_EffectDistance: {x: 3, y: -3}
-  m_UseGraphicAlpha: 1
 --- !u!1 &2040282663
 GameObject:
   m_ObjectHideFlags: 0
@@ -131218,7 +131099,7 @@ MonoBehaviour:
   Combat_Speed_Rate: 1
   AI_State_Text: {fileID: 0}
   Tank_Name: 
-  Event_Text: {fileID: 2038290867}
+  Event_Text: {fileID: 0}
   Event_Message: '"Mouse Middle Drag" >>> Camera Rotaion
 
     "WASD" >>> Move'
