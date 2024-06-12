@@ -66,7 +66,7 @@ namespace ChobiAssets.PTM
             if (textList.Count > 0 && isDisplaying == false)
             { // The list has any text informations, and this script is not displaying any text now.
                 // Start displaying the next text.
-                thisText.text = textList[0].textString;
+                thisText.text = "탱크 시뮬레이션";
                 thisText.color = textList[0].textColor;
                 StartCoroutine("Fade_In");
             }
